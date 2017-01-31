@@ -15,7 +15,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+public class Day26 {
     
     private static int actday, actmon, actyer, expday, expmon, expyer; 
     
